@@ -1,0 +1,2 @@
+# Pythonelmelet
+Python elméleti óra
